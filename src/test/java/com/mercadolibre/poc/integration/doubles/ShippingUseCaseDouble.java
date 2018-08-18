@@ -3,9 +3,9 @@ package com.mercadolibre.poc.integration.doubles;
 import com.mercadolibre.poc.entities.Item;
 import com.mercadolibre.poc.entities.ShippingCost;
 import com.mercadolibre.poc.entities.User;
-import com.mercadolibre.poc.integration.use_cases.ShippingUseCase;
-import com.mercadolibre.poc.integration.use_cases.presenters.Presenter;
-import com.mercadolibre.poc.integration.use_cases.responses.UseCaseResponse;
+import com.mercadolibre.poc.useCases.ShippingUseCase;
+import com.mercadolibre.poc.useCases.presenters.Presenter;
+import com.mercadolibre.poc.useCases.responses.UseCaseResponse;
 
 import static com.mercadolibre.poc.entities.ShippingCost.NOT_FREE;
 

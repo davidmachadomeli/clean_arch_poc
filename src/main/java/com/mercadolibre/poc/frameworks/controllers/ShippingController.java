@@ -1,10 +1,10 @@
-package com.mercadolibre.poc.integration.frameworks.controllers;
+package com.mercadolibre.poc.frameworks.controllers;
 
 import com.mercadolibre.poc.adapters.builders.ShippingUseCaseBuilder;
 import com.mercadolibre.poc.adapters.gateways.ItemGateway;
 import com.mercadolibre.poc.adapters.gateways.UserGateway;
-import com.mercadolibre.poc.integration.frameworks.ShippingRequest;
-import com.mercadolibre.poc.integration.use_cases.ShippingUseCase;
+import com.mercadolibre.poc.frameworks.ShippingRequest;
+import com.mercadolibre.poc.useCases.ShippingUseCase;
 
 public class ShippingController {
 

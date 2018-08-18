@@ -1,4 +1,4 @@
-package com.mercadolibre.poc.integration.frameworks.gateways;
+package com.mercadolibre.poc.frameworks.gateways;
 
 import com.mercadolibre.poc.adapters.gateways.ItemGateway;
 import com.mercadolibre.poc.entities.Item;

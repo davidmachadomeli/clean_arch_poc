@@ -1,10 +1,10 @@
-package com.mercadolibre.poc.integration.use_cases;
+package com.mercadolibre.poc.useCases;
 
 import com.mercadolibre.poc.integration.doubles.ShippingPresenterDouble;
 import com.mercadolibre.poc.integration.doubles.ShippingUseCaseResponseDouble;
 import com.mercadolibre.poc.entities.Item;
 import com.mercadolibre.poc.entities.User;
-import com.mercadolibre.poc.integration.use_cases.responses.UseCaseResponse;
+import com.mercadolibre.poc.useCases.responses.UseCaseResponse;
 import org.junit.Test;
 
 import static com.mercadolibre.poc.entities.ShippingCost.FREE;

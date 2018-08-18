@@ -1,4 +1,4 @@
-package com.mercadolibre.poc.integration.frameworks;
+package com.mercadolibre.poc.frameworks;
 
 public class ShippingRequest {
 

@@ -1,10 +1,10 @@
 package com.mercadolibre.poc.functional;
 
 import com.mercadolibre.poc.adapters.builders.ShippingUseCaseBuilder;
-import com.mercadolibre.poc.integration.frameworks.ShippingRequest;
-import com.mercadolibre.poc.integration.frameworks.controllers.ShippingController;
-import com.mercadolibre.poc.integration.frameworks.gateways.ItemGatewayImpl;
-import com.mercadolibre.poc.integration.frameworks.gateways.UserGatewayImpl;
+import com.mercadolibre.poc.frameworks.ShippingRequest;
+import com.mercadolibre.poc.frameworks.controllers.ShippingController;
+import com.mercadolibre.poc.frameworks.gateways.ItemGatewayImpl;
+import com.mercadolibre.poc.frameworks.gateways.UserGatewayImpl;
 import org.junit.Before;
 import org.junit.Test;
 

@@ -1,6 +1,6 @@
 package com.mercadolibre.poc.adapters.responses;
 
-import com.mercadolibre.poc.integration.use_cases.responses.UseCaseResponse;
+import com.mercadolibre.poc.useCases.responses.UseCaseResponse;
 
 public class ShippingUseCaseResponse extends UseCaseResponse {
 

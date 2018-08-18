@@ -5,7 +5,7 @@ import com.mercadolibre.poc.adapters.gateways.UserGateway;
 import com.mercadolibre.poc.adapters.presenters.ShippingPresenter;
 import com.mercadolibre.poc.entities.Item;
 import com.mercadolibre.poc.entities.User;
-import com.mercadolibre.poc.integration.use_cases.ShippingUseCase;
+import com.mercadolibre.poc.useCases.ShippingUseCase;
 
 public class ShippingUseCaseBuilder {
 

@@ -2,8 +2,8 @@ package com.mercadolibre.poc.adapters.presenters;
 
 import com.mercadolibre.poc.adapters.responses.ShippingUseCaseResponse;
 import com.mercadolibre.poc.entities.ShippingCost;
-import com.mercadolibre.poc.integration.use_cases.presenters.Presenter;
-import com.mercadolibre.poc.integration.use_cases.responses.UseCaseResponse;
+import com.mercadolibre.poc.useCases.presenters.Presenter;
+import com.mercadolibre.poc.useCases.responses.UseCaseResponse;
 
 public class ShippingPresenter implements Presenter<ShippingCost> {
 

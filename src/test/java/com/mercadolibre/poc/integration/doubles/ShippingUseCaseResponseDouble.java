@@ -1,7 +1,7 @@
 package com.mercadolibre.poc.integration.doubles;
 
 import com.mercadolibre.poc.entities.ShippingCost;
-import com.mercadolibre.poc.integration.use_cases.responses.UseCaseResponse;
+import com.mercadolibre.poc.useCases.responses.UseCaseResponse;
 
 public class ShippingUseCaseResponseDouble extends UseCaseResponse {
 

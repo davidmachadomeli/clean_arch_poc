@@ -1,9 +1,9 @@
-package com.mercadolibre.poc.integration.frameworks;
+package com.mercadolibre.poc.frameworks;
 
 import com.mercadolibre.poc.integration.doubles.ShippingUseCaseBuilderDouble;
-import com.mercadolibre.poc.integration.frameworks.controllers.ShippingController;
-import com.mercadolibre.poc.integration.frameworks.gateways.ItemGatewayImpl;
-import com.mercadolibre.poc.integration.frameworks.gateways.UserGatewayImpl;
+import com.mercadolibre.poc.frameworks.controllers.ShippingController;
+import com.mercadolibre.poc.frameworks.gateways.ItemGatewayImpl;
+import com.mercadolibre.poc.frameworks.gateways.UserGatewayImpl;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

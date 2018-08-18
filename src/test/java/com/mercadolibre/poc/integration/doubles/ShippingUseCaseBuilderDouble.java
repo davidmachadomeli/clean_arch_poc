@@ -1,7 +1,7 @@
 package com.mercadolibre.poc.integration.doubles;
 
 import com.mercadolibre.poc.adapters.builders.ShippingUseCaseBuilder;
-import com.mercadolibre.poc.integration.use_cases.ShippingUseCase;
+import com.mercadolibre.poc.useCases.ShippingUseCase;
 
 public class ShippingUseCaseBuilderDouble extends ShippingUseCaseBuilder {
 
